@@ -1,0 +1,5 @@
+Correctness and the Loop Invariant:
+
+Space complexity will be O(1) because the code will use the same amount of variables regardless of the input size.
+
+Time complexity will be O(n^2) because in the worst case scenario, for each element in the array, you may need to compare and shift that element all the way to the beginning.

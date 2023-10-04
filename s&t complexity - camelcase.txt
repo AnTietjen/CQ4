@@ -1,0 +1,5 @@
+Camelcase:
+
+This has a time complexity of O(n) because the runtime of the code will increase at a linear rate with the length of the string.
+
+This has a space complexity of O(1) because it will use a constant amount of variables regardless of the length of the string.
